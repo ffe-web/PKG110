@@ -1,0 +1,15 @@
+﻿# id 只能填 字母 数字 半角符号
+id=PanZhongHuaxingshu
+name=庞中华行书_OOS
+version=V1.0
+versionCode=17
+author=P
+description=庞中华行书，OOS16，ace5
+
+# 模块的 ID，只支持半角英文和数字，不能以纯数字开头name=TTF 转 Magisk 模块模版  
+# 模块的名称，模块刷入后，此名称会在 Magisk Manager 里显示version=3.0
+# 模块的版本versionCode=5
+# 模块的版本代号author=落霞孤鹜 [lxgwshare]
+# 模块的作者description=
+# 这里填写模块描述，模块刷入后会在 Magisk Manager 里显示minMagisk=17000
+# 支持此模块的最低 Magisk 版本
